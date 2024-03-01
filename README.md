@@ -1,8 +1,4 @@
 # MassDmFriend
-Envoyez rapidement des messages à tous vos amis sur Discord
-
-# Outil de Messagerie de Masse pour Discord
-
 Il s'agit d'une application Python simple qui vous permet d'envoyer des messages directs (DMs) à tous vos amis sur Discord simultanément. Il offre une interface utilisateur graphique (GUI) pour plus de facilité d'utilisation.
 
 ## Fonctionnalités
