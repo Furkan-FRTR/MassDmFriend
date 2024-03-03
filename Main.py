@@ -67,7 +67,7 @@ def start_mass_dm():
     MassDM(token, channelIds, message, delay, output_text, message_count_label)
 
 root = tk.Tk()
-root.title("Mass DM by fr41tr42")
+root.title("Mass DM by Furkan-FRTR")
 root.geometry("600x500")
 
 logo_url = "https://i.goopics.net/kgyjqw.png"
