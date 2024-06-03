@@ -1,6 +1,8 @@
 # MassDmFriend
 Il s'agit d'une application Python simple qui vous permet d'envoyer des messages directs (DMs) à tous vos amis sur Discord simultanément. Il offre une interface utilisateur graphique (GUI) pour plus de facilité d'utilisation.
 
+![image](https://github.com/Furkan-FRTR/MassDmFriend/assets/148652708/aa369e2e-6cde-4b6f-acb1-e379ac4aca90)
+
 ## Fonctionnalités
 
 - Envoyer des messages directs à plusieurs de vos amis sur Discord
